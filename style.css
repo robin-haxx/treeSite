@@ -1,0 +1,22 @@
+
+
+html, body {
+    
+    width:40%;
+    text-align: center;
+    display: block;
+    margin: auto;
+    /* margin-left: 100px; */
+    margin-top: 60px;
+    
+    
+    padding: auto;
+  }
+
+  canvas {
+    display: block;
+    
+  }
+
+  
+  
