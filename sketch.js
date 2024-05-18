@@ -27,6 +27,7 @@ function setup() {
   createCanvas(340, 600);
   slider = createSlider(0, 1305);
   slider.size(340);
+  slider.value(0);
 
   let button1 = createButton('leaves');
   let button2 = createButton('sunlight');
